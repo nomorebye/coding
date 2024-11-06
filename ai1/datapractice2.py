@@ -1,6 +1,8 @@
 from my_imports import *
 from my_functions import moving_average, volume_moving_average, relative_strength_index, get_confusion_matrix
 
+df = pd.read_csv('aiexample\AI_FOR_FINANCE\chapter2\ETFs_main.csv')
+
 # 기술 지표 적용
 df = moving_average(df, 45)
 df = volume_moving_average(df, 45)

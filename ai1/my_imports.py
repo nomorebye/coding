@@ -33,5 +33,4 @@ from tensorflow.keras.layers import Dense
 import yfinance as yf
 import ta
 import ta.momentum
-
-#df = pd.read_csv('aiexample\AI_FOR_FINANCE\chapter2\ETFs_main.csv')
+import math

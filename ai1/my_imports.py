@@ -13,6 +13,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.model_selection import GridSearchCV
+#from sklearn.model_selection import StandardScaler
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestClassifier
 from xgboost import XGBClassifier
@@ -21,8 +22,16 @@ from sklearn.metrics import f1_score
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
+from sklearn.metrics import classification_report
 from sklearn import svm
 import seaborn as sns; sns.set()
 import sys
 sys.setrecursionlimit(10**7)
-df = pd.read_csv('aiexample\AI_FOR_FINANCE\chapter2\ETFs_main.csv')
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+import yfinance as yf
+import ta
+import ta.momentum
+
+#df = pd.read_csv('aiexample\AI_FOR_FINANCE\chapter2\ETFs_main.csv')

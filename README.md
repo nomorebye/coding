@@ -2,7 +2,7 @@
 # 금융 머신러닝 독학 계정.
 
 ## 참고도서 목록
-### 금융 AI의 이해(AI FOR FINANCE) - 김태현 (11-03 ~ 진행중)
+### 금융 AI의 이해(AI FOR FINANCE) - 김태현 (11-03 ~ 11-15)
 https://product.kyobobook.co.kr/detail/S000213989321
 
 ### 파이썬으로 구현하는 로보어드바이저 - 윤성진

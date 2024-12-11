@@ -5,10 +5,10 @@
 ### 금융 AI의 이해(AI FOR FINANCE) - 김태현 (11-03 ~ 11-15)
 https://product.kyobobook.co.kr/detail/S000213989321
 
-### 파이썬으로 구현하는 로보어드바이저 - 윤성진
+### ~~파이썬으로 구현하는 로보어드바이저 - 윤성진~~
 https://product.kyobobook.co.kr/detail/S000213848829
 
-### 퀀트투자를 위한 머신러닝 - 기욤 코케렛
+### 퀀트투자를 위한 머신러닝 - 기욤 코케렛 (11/15 ~ 12/11)
 https://product.kyobobook.co.kr/detail/S000214458826
 
 ### 자산운용을 위한 금융 머신러닝 - 마르코즈 코페즈
